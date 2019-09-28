@@ -9,6 +9,7 @@
 
 ## Performance
 - tested and converted within 10 seconds with Zawgyi xml (32MB wikipedia dump written in Zawgyi)
+- 99% correctness guarrentee
 
 
 ## Instruction
