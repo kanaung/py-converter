@@ -41,7 +41,7 @@ def clean(dirname):
       try:
         os.rmdir(dirname)
       except OSError:
-        print ("Deletion of the directory %s failed" % path)
+        print ("Deletion of the directory %s failed" % dirname)
 
 def main(argv):
   inputdata = ''
